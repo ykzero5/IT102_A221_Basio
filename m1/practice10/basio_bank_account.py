@@ -19,6 +19,7 @@ class BankAccount(ABC):
 
     # Encapsulation
     def check_balance(self):
+
         return self._balance
 
     def deposit(self, amount):
@@ -52,9 +53,22 @@ class BankAccount(ABC):
 
         return self._pin
 
+    # Improvement:
+    # Update balance using a method instead
+    # of directly accessing _balance.
+    def update_balance(self, new_balance):
+
+        if new_balance < 0:
+            return False
+
+        self._balance = new_balance
+
+        return True
+
     # Abstraction
     @abstractmethod
     def get_account_type(self):
+
         pass
 
 

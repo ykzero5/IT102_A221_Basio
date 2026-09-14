@@ -230,7 +230,7 @@ def update_account(account):
                 == account.account_number
             ):
 
-                saved_account._balance = (
+                saved_account.update_balance(
                     account.check_balance()
                 )
 
