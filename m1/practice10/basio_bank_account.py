@@ -1,3 +1,17 @@
+"""
+########## Learning Signature ##########
+Programmed by: Yma Khaliya L. Basio
+Date Submitted: September 14, 2026
+
+Program Description: This file defines the bank account classes and demonstrates the main OOP concepts.
+Reflection: I learned how encapsulation, abstraction, inheritance, and polymorphism can work together in one class structure.
+
+AI Usage
+[ ] No AI Assistance - Completed independently without AI.
+[X] AI as Support Tool - Used AI for explanations, syntax, or minor corrections.
+[ ] AI as Collaborative Partner - Used AI to design, structure, or co-create significant code.
+"""
+
 from abc import ABC, abstractmethod
 
 

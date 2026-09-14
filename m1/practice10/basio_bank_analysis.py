@@ -1,3 +1,17 @@
+"""
+########## Learning Signature ##########
+Programmed by: Yma Khaliya L. Basio
+Date Submitted: September 14, 2026
+
+Program Description: This file analyzes banking transactions and calculates account activity statistics.
+Reflection: I learned how transaction records can be processed to create useful summaries and calculations.
+
+AI Usage
+[ ] No AI Assistance - Completed independently without AI.
+[X] AI as Support Tool - Used AI for explanations, syntax, or minor corrections.
+[ ] AI as Collaborative Partner - Used AI to design, structure, or co-create significant code.
+"""
+
 import basio_bank_transactions
 
 

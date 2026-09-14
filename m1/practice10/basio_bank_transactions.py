@@ -1,3 +1,17 @@
+"""
+########## Learning Signature ##########
+Programmed by: Yma Khaliya L. Basio
+Date Submitted: September 14, 2026
+
+Program Description: This file records and retrieves deposit and withdrawal transactions from transactions.txt.
+Reflection: I learned how transaction data can be stored in a text file and converted back into usable program data.
+
+AI Usage
+[ ] No AI Assistance - Completed independently without AI.
+[X] AI as Support Tool - Used AI for explanations, syntax, or minor corrections.
+[ ] AI as Collaborative Partner - Used AI to design, structure, or co-create significant code.
+"""
+
 from datetime import datetime
 
 

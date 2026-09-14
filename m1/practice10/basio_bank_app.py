@@ -1,3 +1,17 @@
+"""
+########## Learning Signature ##########
+Programmed by: Yma Khaliya L. Basio
+Date Submitted: September 14, 2026
+
+Program Description: This file provides the Streamlit interface and connects all parts of the banking application.
+Reflection: I learned how separate modules and OOP objects can work together to create a complete application.
+
+AI Usage
+[ ] No AI Assistance - Completed independently without AI.
+[X] AI as Support Tool - Used AI for explanations, syntax, or minor corrections.
+[ ] AI as Collaborative Partner - Used AI to design, structure, or co-create significant code.
+"""
+
 import streamlit as st
 
 import basio_bank_auth
