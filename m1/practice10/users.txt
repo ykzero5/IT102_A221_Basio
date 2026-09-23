@@ -1,0 +1,6 @@
+Account Number: 1234
+Account Name: Juan Dela Cruz
+PIN: 1234
+Account Type: Savings Account
+Balance: 10000.00
+
